@@ -13,7 +13,7 @@ The pipeline includes data generation, warehouse modeling, and dashboard develop
 
 The data warehouse was implemented using PostgreSQL following a layered architecture similar to modern cloud data platforms.
 
-RAW → CORE → MART
+![Architecture](images/architecture.png)
 
 ### Raw Layer
 
